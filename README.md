@@ -23,7 +23,12 @@ Courses and tutorials organized by popular AI agent frameworks.
 
 - **[Tools Make an Agent:From Zero to Assistant with ADK](https://codelabs.developers.google.com/codelabs/cloud-run/tools-make-an-agent)**
 
-    In this lab, you will build an agent with Agent Development Kit (ADK)! You will learn how to build a software bug assistant agent using ADK and various tool types. You will start with a basic agent and progressively add tools to enhance its capabilities, including function tools, built-in tools, third-party tools, and Model Context Protocol (MCP) tools.
+    In this lab, you will build an agent with `Agent Development Kit (ADK)`! You will learn how to build a software bug assistant agent using ADK and various tool types. You will start with a basic agent and progressively add tools to enhance its capabilities, including function tools, built-in tools, third-party tools, and Model Context Protocol (MCP) tools.
+
+- **[Getting Started with MCP, ADK and A2A](https://codelabs.developers.google.com/codelabs/currency-agent)**
+
+    This codelab will help you get started by showing you how to build a currency agent that can convert between different countries' currencies. With the goal of walking through the latest technologies to help you understand those acronyms that you may have seen floating around the internet (MCP, ADK, A2A).
+
 ---
 
 ### CrewAI
