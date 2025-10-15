@@ -10,6 +10,10 @@ Courses and tutorials organized by popular AI agent frameworks.
 ### LangGraph
 **Official Docs:** [LangGraph](https://docs.langchain.com/oss/python/langgraph/overview)
 
+- **[LangGraph quickstart](https://langchain-ai.github.io/langgraph/agents/agents/)**
+
+    This guide shows you how to set up and use LangGraph's prebuilt, reusable components, which are designed to help you construct agentic systems quickly and reliably.
+
 ---
 
 ### Google Agent Development Kit (Google ADK)
